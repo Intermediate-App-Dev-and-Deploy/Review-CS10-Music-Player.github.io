@@ -30,6 +30,7 @@ Next Button Demonstrated
 --- 
 
 # To Include
-- [ ] 
+- [ ] See the sandbox: https://github.com/MercersKitchen/Sandboxes-Music-Player-P1-20240206.github.io
+- [ ] See if this is included in the introductory organization
 
 ---
