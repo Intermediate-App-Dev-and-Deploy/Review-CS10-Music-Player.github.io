@@ -34,3 +34,9 @@ Next Button Demonstrated
 - [ ] See if this is included in the introductory organization
 
 ---
+
+### Teacher ONLY
+
+https://github.com/Intermediate-App-Dev-and-Deploy/Exemplar-Procedural-Music-Player
+
+---
